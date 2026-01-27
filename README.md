@@ -1,2 +1,2 @@
 # Python
-1
+1 python learnng
